@@ -1,5 +1,27 @@
 # Caravane pour formations
 
+!!! info "Statut"
+
+    === "Avancement"
+        * [x] en attente
+        * [ ] démarré
+        * [ ] terminé
+        * [ ] déployé
+
+    === "Conception"
+        * [ ] à définir
+        * [x] terminée
+
+    === "Réalisation"
+        * [x] à effectuer
+        * [ ] faite
+        * [ ] à optimiser après REX
+
+    === "Déploiement"
+        * [x] en attente
+        * [ ] à faire
+
+
 ## Le "lieu"
 
 C'est une caravane aux volets bleus ... tractée par un beau camion ...

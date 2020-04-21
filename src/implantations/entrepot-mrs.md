@@ -1,12 +1,25 @@
 # Entrepôt de stockage
 
-## Statut
+!!! info "Statut"
 
-* [] à définir
-* [] en projet
-* [x] en attente
-* [x] autre : demande d'autorisation d'occupation
-* [] : stable
+    === "Avancement"
+        * [x] en attente
+        * [ ] démarré
+        * [ ] terminé
+        * [ ] déployé
+
+    === "Conception"
+        * [ ] à définir
+        * [x] terminée
+
+    === "Réalisation"
+        * [x] à effectuer
+        * [ ] faite
+        * [ ] à optimiser après REX
+
+    === "Déploiement"
+        * [x] en attente
+        * [ ] à faire
 
 
 ## Implantation

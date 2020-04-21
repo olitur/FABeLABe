@@ -1,12 +1,25 @@
 # Atelier de réalisations
 
-## Statut
+!!! info "Statut"
 
-* [x] à définir
-* [x] en projet
-* [] en attente
-* [] autre : trouver un lieu adéquat, ni trop loin de Marseille, ni trop près pour ne pas subir l'impact financier de la proximité
-* [] : stable
+    === "Avancement"
+        * [x] en attente
+        * [ ] démarré
+        * [ ] terminé
+        * [ ] déployé
+
+    === "Conception"
+        * [ ] à définir
+        * [x] terminée
+
+    === "Réalisation"
+        * [x] à effectuer
+        * [ ] faite
+        * [ ] à optimiser après REX
+
+    === "Déploiement"
+        * [x] en attente
+        * [ ] à faire
 
 
 ## Implantation
