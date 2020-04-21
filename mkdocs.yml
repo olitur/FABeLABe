@@ -1,0 +1,179 @@
+# Project information
+site_name: FABeLABe
+site_url: https://canopee.org/fabelabe/
+# https://olitur.github.io/fabelabe/ --> https://canopee.org/fabelabe/ avec le compte github olitur/o.turlier@gmail.com
+# https://github.com/olitur/FABeLABe.git
+site_author: Olivier TURLIER
+site_description: >-
+  Le site web du FABeLABe
+
+# Repository
+repo_name: olitur/fabelabe
+repo_url: https://github.com/olitur/fabelabe
+edit_uri: ""
+# branch to deploy with 'mkdocs gh-deploy -c -b master -m MkDocs {version}'
+remote_branch: master
+# src directory
+docs_dir: ./src/
+# build directory
+site_dir: ./docs/
+
+# Copyright
+copyright:
+  Copyright &copy; 2000 - 2020 <a href="https://github.com/olitur">Olivier TURLIER</a> <strong>CC-BY-NC-SA 4.0</strong>
+  <span class="md-footer-custom-text">Travaillant pour le </span>
+  <a href="https://canopee.org/fabelabe/"><strong>FABeLABe</strong></a>
+
+# Configuration
+theme:
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: fr
+  features:
+    - tabs
+    #- instant
+  palette:
+    primary: white
+    accent: white
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: logo
+  favicon: assets/favicon.png
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - fr
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      type: date
+      locale: fr
+  #
+  #- mk2pdf-export:
+      #enabled_if_env: ENABLE_PDF_EXPORT
+      #combined: true
+      #combined_output_path: ./pdf/TEBIM.pdf
+#      
+  # - pdf-export:
+  #     verbose: true
+  #     media_type: default
+  #     #enabled_if_env: ENABLE_PDF_EXPORT
+  #     combined: true
+  #     combined_output_path: ./pdf/TEBIM.pdf
+#
+  #- mkpdfs:
+  #      company: CRM Mulhouse
+  #      author: Formateurs TEB
+  #      toc-title: Sommaire
+  #      output_path: ./pdf/TEBIM.pdf
+  #      design:
+#
+
+
+
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/olitur
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/antropyk
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/olitur/
+    - icon: fontawesome/brands/paypal
+      link: https://paypal.me/antropyk?locale.x=fr_FR
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.highlight:
+  #     linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: oturlier
+      repo: fabelabe
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
+# Google Analytics
+google_analytics:
+  - UA-164139838-1
+  - auto
+
+
+
+
+# Navigation
+nav:
+  - Accueil: 
+    - Présentation: index.md
+    - Actualités: actus.md
+  - L'association:
+    - Objectifs: association/asso_objectifs.md
+    - Adhésion: association/asso_adhesion.md
+    - Fonctionnement: association/asso_fonctionnement.md
+    - Statuts & Règlemens: association/asso_statuts+reglements.md
+    - Moyens: association/asso_moyens.md
+    - Comptes: association/asso_finances.md
+  - Les Implantations:
+    - Entrepôt de Marseille: implantations/entrepot-mrs.md
+    - Atelier de fabrication: implantations/atelier-fabrication.md
+    - Caravane de formations: implantations/caravane-formation.md
+    - Zone d'influence: implantations/zone-influence.md
+  - Nos activités/Projets:
+    - Autonomie énergétique: 
+       - Plastic 2 diesel: autonomie/plastic2diesel.md
+       - Huile 2 diesel: autonomie/huile2carburant.md
+       - Vent 2 watt: autonomie/eolienne.md
+       - Gazogène: autonomie/gazogene.md
+    - Habitat efficace: 
+      - Poêle de masse: habitat/poele-masse.md
+      - Paille porteuse: habitat/paille-porteuse.md
+      - Expérimentations: habitat/habitat-experimental.md
+    - Formations:
+      - Conception: formations/formation-conception.md
+      - Réalisation: formations/formation-realisations.md
+
