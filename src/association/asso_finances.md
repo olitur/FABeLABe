@@ -1,6 +1,6 @@
 # Finances de l'association
 
-???+ info "Statut"
+??? info "Statut"
 
     === "Avancement"
         * [x] en attente

@@ -155,11 +155,11 @@ nav:
     - Objectifs: association/asso_objectifs.md
     - Adhésion: association/asso_adhesion.md
     - Fonctionnement: association/asso_fonctionnement.md
-    - Statuts & Règlemens: association/asso_statuts+reglements.md
+    - Statuts & Règlements: association/asso_statuts+reglements.md
     - Moyens: association/asso_moyens.md
     - Comptes: association/asso_finances.md
   - Les Implantations:
-    - Entrepôt de Marseille: implantations/entrepot-mrs.md
+    - Entrepôt de stockage: implantations/entrepot-mrs.md
     - Atelier de fabrication: implantations/atelier-fabrication.md
     - Caravane de formations: implantations/caravane-formation.md
     - Zone d'influence: implantations/zone-influence.md

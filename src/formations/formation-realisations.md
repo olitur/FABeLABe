@@ -1,6 +1,6 @@
 # Formation pour aide aux réalisations
 
-???+ info "Statut"
+??? info "Statut"
 
     === "Avancement"
         * [x] en attente
@@ -23,4 +23,4 @@
         * [ ] fait
 
 
-## 
+## Déplacement sur site

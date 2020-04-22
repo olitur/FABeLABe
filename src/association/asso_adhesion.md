@@ -1,7 +1,7 @@
-# Adhésion
+# Adhesion
 
 
-???+ info "Statut"
+??? info "Statut"
 
     === "Avancement"
         * [ ] en attente

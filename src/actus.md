@@ -3,7 +3,7 @@
 
 
 
-## 2020-04-22 : site WEB de l'association "online" :success:
+## 2020-04-22 : site WEB de l'association "online" :ok_hand: :tada:
 
 - Création :
     - Fichiers "texte" en syntaxe [Markdown](https://daringfireball.net/projects/markdown/) 
@@ -12,7 +12,7 @@
     - hébergement sur [Github](https://github.com/olitur/tebim)
     - fichiers PDF généré à partir de Markdown grâce à [Pandoc](https://pandoc.org/), [Texlive](https://www.tug.org/texlive/) et un fichier de style [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
-???+ info "Statut"
+??? info "Statut"
 
     === "Avancement"
         * [ ] en attente

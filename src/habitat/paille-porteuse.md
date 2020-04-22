@@ -1,6 +1,6 @@
 # Maisons en paille porteuse
 
-???+ info "Statut"
+??? info "Statut"
 
     === "Avancement"
         * [x] en attente

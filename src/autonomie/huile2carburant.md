@@ -1,6 +1,6 @@
 # Huile végétale --> carburant diesel
 
-???+ info "Statut"
+??? info "Statut"
 
     === "Avancement"
         * [x] en attente

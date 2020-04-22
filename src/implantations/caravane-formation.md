@@ -1,6 +1,6 @@
 # Caravane pour formations
 
-!!! info "Statut"
+??? info "Statut"
 
     === "Avancement"
         * [x] en attente
@@ -20,6 +20,7 @@
     === "Déploiement"
         * [x] en attente
         * [ ] à faire
+        * [ ] fait
 
 
 ## Le "lieu"

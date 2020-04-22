@@ -1,7 +1,7 @@
 # Formations pour aide à la conception
 
 
-???+ info "Statut"
+??? info "Statut"
 
     === "Avancement"
         * [x] en attente

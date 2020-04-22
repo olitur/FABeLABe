@@ -1,6 +1,6 @@
 # Poêle de masse
 
-???+ info "Statut"
+??? info "Statut"
 
     === "Avancement"
         * [x] en attente

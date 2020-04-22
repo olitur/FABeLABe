@@ -1,6 +1,6 @@
 # Moyens
 
-???+ info "Statut"
+??? info "Statut"
 
     === "Avancement"
         * [x] en attente
