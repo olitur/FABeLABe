@@ -1,7 +1,7 @@
 # Statuts
 
-[Statuts](/assets-asso/asso_statuts.pdf)
+[Statuts](asso_statuts.pdf)
 
-# Règlements
+# Reglements
 
-[Règlements](/assets-asso/asso_reglements.pdf)
+[Règlements](asso_reglements.pdf)

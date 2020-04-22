@@ -1,11 +1,11 @@
 # Adhésion
 
 
-!!! info "Statut"
+???+ info "Statut"
 
     === "Avancement"
-        * [x] en attente
-        * [ ] démarré
+        * [ ] en attente
+        * [x] démarré
         * [ ] terminé
         * [ ] déployé
 
@@ -21,6 +21,7 @@
     === "Déploiement"
         * [x] en attente
         * [ ] à faire
+        * [ ] fait
 
 
 ## Membres privés

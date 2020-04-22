@@ -1,6 +1,6 @@
 # Poêle de masse
 
-!!! info "Statut"
+???+ info "Statut"
 
     === "Avancement"
         * [x] en attente
@@ -9,8 +9,8 @@
         * [ ] déployé
 
     === "Conception"
-        * [ ] à définir
-        * [x] terminée
+        * [x] à définir
+        * [ ] terminée
 
     === "Réalisation"
         * [x] à effectuer
@@ -20,6 +20,7 @@
     === "Déploiement"
         * [x] en attente
         * [ ] à faire
+        * [ ] fait
 
 Le chauffage au bois bûche avec des poêles de masse de type batch-rocket ou batchblock nous semble très prometteur. La pertinence de ce type de chauffage vient principalement : Son feu est suffisamment vif pour brûler les fumées, on le constate à chaque nettoyage de l’appareil où peu de suies sont à retirer. L’utiliser en feu ralenti n’est pas possible car les températures de sorties seraient trop basses et l’on s’enfumerait.
 

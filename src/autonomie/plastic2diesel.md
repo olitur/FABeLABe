@@ -1,6 +1,6 @@
 # Plastique --> carburant diesel
 
-!!! info "Statut"
+???+ info "Statut"
 
     === "Avancement"
         * [x] en attente
@@ -9,8 +9,8 @@
         * [ ] déployé
 
     === "Conception"
-        * [ ] à définir
-        * [x] terminée
+        * [x] à définir
+        * [ ] terminée
 
     === "Réalisation"
         * [x] à effectuer
@@ -20,3 +20,4 @@
     === "Déploiement"
         * [x] en attente
         * [ ] à faire
+        * [ ] fait

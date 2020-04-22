@@ -1,6 +1,6 @@
 # Formation pour aide aux réalisations
 
-!!! info "Statut"
+???+ info "Statut"
 
     === "Avancement"
         * [x] en attente
@@ -10,7 +10,7 @@
 
     === "Conception"
         * [ ] à définir
-        * [x] terminée
+        * [ ] terminée
 
     === "Réalisation"
         * [x] à effectuer
@@ -20,6 +20,7 @@
     === "Déploiement"
         * [x] en attente
         * [ ] à faire
+        * [ ] fait
 
 
 ## 
