@@ -1,4 +1,6 @@
+
 # Fonctionnement
+
 
 ??? info "Statut"
 
@@ -22,7 +24,7 @@
         * [ ] à faire
         * [ ] fait
 
-# déroulé d'une inscription 
+# Déroulé d'une inscription 
 - tu t'inscris à l'association, et idéalement, à un projet
 
 - tu participes à une session d'information spécifique à ce projet

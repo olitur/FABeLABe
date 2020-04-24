@@ -26,16 +26,16 @@ copyright:
 
 # Configuration
 theme:
-  name: null
-  custom_dir: material
+  name: material
+  custom_dir: src/
 
   # 404 page
   static_templates:
     - 404.html
 
   # Don't include MkDocs' JavaScript
-  include_search_page: false
-  search_index_only: true
+  #include_search_page: false
+  #search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
   language: fr
@@ -44,7 +44,7 @@ theme:
     #- instant
   palette:
     primary: white
-    accent: white
+    accent: dark orange
   font:
     text: Roboto
     code: Roboto Mono
@@ -98,6 +98,10 @@ extra:
       link: https://linkedin.com/in/olitur/
     - icon: fontawesome/brands/paypal
       link: https://paypal.me/antropyk?locale.x=fr_FR
+
+#extra_css:
+#  - assets/extra.css
+#PDF#    - assets/pdf.css
 
 # Extensions
 markdown_extensions:
@@ -156,6 +160,7 @@ nav:
     - Adhésion: association/asso_adhesion.md
     - Fonctionnement: association/asso_fonctionnement.md
     - Statuts & Règlements: association/asso_statuts+reglements.md
+    # - src/association/assets-asso/asso-statuts.pdf
     - Moyens: association/asso_moyens.md
     - Comptes: association/asso_finances.md
   - Les Implantations:
@@ -176,4 +181,3 @@ nav:
     - Formations:
       - Conception: formations/formation-conception.md
       - Réalisation: formations/formation-realisations.md
-

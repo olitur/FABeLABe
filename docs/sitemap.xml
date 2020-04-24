@@ -1,108 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://canopee.org/FABeLABe/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/actus/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/association/asso_objectifs/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/association/asso_adhesion/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/association/asso_fonctionnement/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://canopee.org/FABeLABe/association/asso_statuts+reglements/</loc>
-     <lastmod>2020-04-22</lastmod>
+    </url><url>
+     <loc>https://canopee.org/FABeLABe/association/asso_statuts%2Breglements/</loc>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/association/asso_moyens/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/association/asso_finances/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/implantations/entrepot-mrs/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/implantations/atelier-fabrication/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/implantations/caravane-formation/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/implantations/zone-influence/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/autonomie/plastic2diesel/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/autonomie/huile2carburant/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/autonomie/eolienne/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/autonomie/gazogene/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/habitat/poele-masse/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/habitat/paille-porteuse/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/habitat/habitat-experimental/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/formations/formation-conception/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://canopee.org/FABeLABe/formations/formation-realisations/</loc>
-     <lastmod>2020-04-22</lastmod>
+     <lastmod>2020-04-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

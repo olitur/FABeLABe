@@ -1,7 +1,11 @@
 # Statuts
 
-[Statuts](/assets-asso/asso_statuts.pdf)
+Fondamentaux !
+
+> au format PDF en cliquant sur ce lien : [Statuts FABeLABe](assets-asso/asso-statuts.pdf)
 
 # Reglements
 
-[Règlements](/assets-asso/asso_reglements.pdf)
+Précisent les statuts !
+
+> au format PDF en cliquant sur ce lien : [Reglements FABeLABe](assets-asso/asso-reglements.pdf)
