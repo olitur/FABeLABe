@@ -1,9 +1,18 @@
 
 # Site Web de l'association FABeLABe
 
+Ce dépôt contient l'ensemble des documents du site web [FabeLabe](https://canopee.org/FABeLABe/)
+
+* URL du site web : https://canopee.org/FABeLABe/
+* URL du dépôt _GitHub_ : https://github.com/olitur/fabelabe
+  * les documents sources, au format MARKDOWN, sont contenus dans le répertoire **`src/`**
+  * les fichiers HTML sont générés par [MkDocs](https://www.mkdocs.org/) sont contenus dans le répertoire **`docs/`**
+  * l'aspect du site web dépend du thème [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/)
+  * les fichiers PDF sont générés par [Pandoc](https://pandoc.org/), [Xelatex](https://fr.wikipedia.org/wiki/XeTeX) et la feuille de style [eisvogel.tex](https://github.com/Wandmalfarbe/pandoc-latex-template/blob/master/eisvogel.tex)
+
 ## MkDocs
 
-Utilisé pour générer les pages HTML dans le répertoire ./docs
+Utilisé pour générer les pages HTML dans le répertoire ./docs à partir de fichiers texte de syntaxe Markdown.
 
 
 ## License

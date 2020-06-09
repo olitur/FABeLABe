@@ -1,27 +1,5 @@
 # Atelier de réalisations
 
-??? info "Statut"
-
-    === "Avancement"
-        * [x] en attente
-        * [ ] démarré
-        * [ ] terminé
-        * [ ] déployé
-
-    === "Conception"
-        * [ ] à définir
-        * [x] terminée
-
-    === "Réalisation"
-        * [x] à effectuer
-        * [ ] faite
-        * [ ] à optimiser après REX
-
-    === "Déploiement"
-        * [x] en attente
-        * [ ] à faire
-        * [ ] fait
-
 
 ## Implantation
 
@@ -35,3 +13,40 @@
 - dallage intérieur résistant aux charges lourdes
 - surface extérieure (cour) permettant l'entreposage, la réalisation, l'exploitation de systèmes produisant de la chaleur, du bruit ou de la fumée sans gêner le voisinage ...
 - enveloppe permettant de résister efficacement aux aléas climatiques (échauffement estival notamment) tout en profitant de la lumière naturelle
+
+
+## Principales difficultés
+
+- mise à disposition d'un local ?
+- terrain pour construction ?
+- éloignement par rapport au voisinage pour diminution des nuisances
+
+??? info "Statut projet"
+
+    === "Priorité"
+        * [ ] basse
+        * [ ] moyenne
+        * [ ] importante
+        * [x] élevée
+
+    === "Avancement"
+        * [x] en attente
+        * [ ] démarré
+        * [ ] en cours
+        * [ ] terminé
+        * [ ] déployé
+
+    === "Conception"
+        * [x] esquisse
+        * [ ] avant-projet
+        * [ ] projet
+
+    === "Réalisation"
+        * [ ] prototype : réalisation & essais
+        * [ ] optimisation suite REX
+        * [ ] modèle 001
+        * [ ] documentation (manuels & plans)
+
+    === "Déploiement"
+        * [ ] formation (assistance à réalisation)
+        * [ ] réalisation par autrui

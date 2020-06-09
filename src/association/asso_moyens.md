@@ -1,28 +1,6 @@
 # Moyens
 
-??? info "Statut"
-
-    === "Avancement"
-        * [x] en attente
-        * [ ] démarré
-        * [ ] terminé
-        * [ ] déployé
-
-    === "Conception"
-        * [x] à définir
-        * [ ] terminée
-
-    === "Réalisation"
-        * [x] à effectuer
-        * [ ] faite
-        * [ ] à optimiser après REX
-
-    === "Déploiement"
-        * [x] en attente
-        * [ ] à faire
-        * [ ] fait
-
-
+Les moyens de l'association FABeLABe correspondent strictement aux besoins de fonctionnement, immédiats ou futurs.
 
 ## Moyens immobiliers
 
@@ -40,3 +18,35 @@
 - savoirs & compétences
 - réseau relationnel
 - impacts futurs
+
+
+
+??? info "Statut projet"
+
+    === "Priorité"
+        * [ ] basse
+        * [ ] moyenne
+        * [ ] importante
+        * [x] élevée
+
+    === "Avancement"
+        * [x] en attente
+        * [ ] démarré
+        * [ ] en cours
+        * [ ] terminé
+        * [ ] déployé
+
+    === "Conception"
+        * [ ] esquisse
+        * [ ] avant-projet
+        * [ ] projet
+
+    === "Réalisation"
+        * [ ] prototype : réalisation & essais
+        * [ ] optimisation suite REX
+        * [ ] modèle 001
+        * [ ] documentation (manuels & plans)
+
+    === "Déploiement"
+        * [ ] formation (assistance à réalisation)
+        * [ ] réalisation par autrui

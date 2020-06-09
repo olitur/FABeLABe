@@ -1,43 +1,20 @@
 # Zone d'influence
 
-??? info "Statut"
+Nous estimons que la zone d'influence du **FABeLABe** ne peut que s'étendre au travers de l'objectif principal de transmission de compétences dans les domaines de l'autonomie énergétique, alimentaire et de l'habitat résilient.
 
-    === "Avancement"
-        * [x] en attente
-        * [ ] démarré
-        * [ ] terminé
-        * [ ] déployé
-
-    === "Conception"
-        * [ ] à définir
-        * [x] terminée
-
-    === "Réalisation"
-        * [x] à effectuer
-        * [ ] faite
-        * [ ] à optimiser après REX
-
-    === "Déploiement"
-        * [x] en attente
-        * [ ] à faire
-        * [ ] fait
-
-
-
-Nous estimons que la zone d'influence de du **FABeLABe* ne peut que s'étendre !
+Nous devons cependant garder à l'esprit qu'il est préférable de réussir l'implémentation d'un seul projet (prenons la transformation du plastique en carburant par exemple) plutôt que de se diversifier et finalement ne pas aboutir dans l'exploitation raisonnée d'un système développé au sein du FABeLABe.
 
 ## Au présent 
 
-Influence 
+Zone "d'influence" (liens entres Membres, Institutions) 
 
-- locale
-- régionale
+- Locale (Marseille & alentours proches) 
+- Régionale (Paca) 
 
 
 ## Au futur
 
-Influence
+Extension de la zone d'influence par le biais de formations, su place, en déplacement sur site ou à distance (formation à la conception uniquement)
 
-- nationale --> 1/4 monde
-- PVD --> 1/3 monde
-
+- Nationale 
+- Pays de l'arc Méditerranéen

@@ -1,27 +1,5 @@
 # Finances de l'association
 
-??? info "Statut"
-
-    === "Avancement"
-        * [x] en attente
-        * [ ] démarré
-        * [ ] terminé
-        * [ ] déployé
-
-    === "Conception"
-        * [x] à définir
-        * [ ] terminée
-
-    === "Réalisation"
-        * [x] à effectuer
-        * [ ] faite
-        * [ ] à optimiser après REX
-
-    === "Déploiement"
-        * [x] en attente
-        * [ ] à faire
-        * [ ] fait
-
 
 
 ## Principes/Objectifs
@@ -83,7 +61,7 @@
         
 - bureautique
     - ordinateurs fixes et mobiles
-    - imprimantes petit et grand formats (traceur de plans)
+    - imprimantes petits et grands formats (traceur de plans)
     - sauvegardes locales et distantes
 
 ### Entretien
@@ -118,10 +96,39 @@
     - conception : DAO 
     - réalisations : 
         - "ateliers" type "master-class"
-        - assistance à l'auto-construction
+        - stage d'assistance à l'auto-construction
 
 ### Recettes évènementielles
 
 - repas 
 
 
+??? info "Statut projet"
+
+    === "Priorité"
+        * [ ] basse
+        * [ ] moyenne
+        * [ ] importante
+        * [x] élevée
+
+    === "Avancement"
+        * [x] en attente
+        * [ ] démarré
+        * [ ] en cours
+        * [ ] terminé
+        * [ ] déployé
+
+    === "Conception"
+        * [ ] esquisse
+        * [ ] avant-projet
+        * [ ] projet
+
+    === "Réalisation"
+        * [ ] prototype : réalisation & essais
+        * [ ] optimisation suite REX
+        * [ ] modèle 001
+        * [ ] documentation (manuels & plans)
+
+    === "Déploiement"
+        * [ ] formation (assistance à réalisation)
+        * [ ] réalisation par autrui

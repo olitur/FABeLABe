@@ -1,28 +1,23 @@
 #  Association du **FABeLABe**
 
 
-
 ## Objectifs
 
-- Axes de développement :  
-Réalisations dans les divers domaines liés à l’autonomie énergétique (principalement) apportant un degré certain de résilience, ici & là-bas (1/4 & 1/3 monde) : augmentation de l’autonomie des acteurs du secteur informel
+Modéliser, réaliser et tester des démonstrateurs à l'échelle 1 dans les domaines suivants : 
 
-- But :  
-modéliser, réaliser et tester des démonstrateurs à l'échelle 1 apportant une autonomie (chauffage, énergétique, déplacements, alimentation etc.), principalement :
-    - transformation des plastiques en carburant diesel & essence (système de pyrolyse/distillation permettant d’obtenir du carburant)
-    - poêles de masse pour chauffage sûr (pas de feu la nuit) de maisons mal isolées thermiquement
-    - gazogènes alimentant moteur mobiles ou fixes (pompe à eau ou générateur)
-    - outillage agricole pour un travail léger du sol (dans l’esprit de l’agroécologie (agroforesterie/permaculture), selon des modèles développés par exemple à [l’atelier paysan][1]
+1. Autonomie énergétique
+2. Autonomie alimentaire
+3. Habitat résilient
 
+Ces domaines sont détaillés à l'onglet **Projets**
 
-[1]: https://www.latelierpaysan.org/
 
 ## Définition
 
-**FABeLABe** est un fablab orienté principalement vers la réalisation de modèles éprouvés pour leur efficacité et leur rusticité apportant une aisance et une maîtrise certaine pour leur maintenance ultérieure. C’est plus un *fab-* qu’un *lab-*, en opposition à nombre de fablab issus des grandes écoles d’ingénieurs par exemple qui sont plus orientés recherche, en œuvrant dans la matérialisation d’idées (électronique, impression 3D, etc.) plus que dans la réalisation concrètes à l’échelle 1.
+Le **FABeLABe** est un fablab orienté principalement vers la réalisation de modèles éprouvés pour leur efficacité et leur rusticité apportant une aisance et une maîtrise certaine pour leur maintenance ultérieure. C’est plus un *fab-* qu’un *lab-*, en opposition à nombre de fablab issus des grandes écoles d’ingénieurs par exemple qui sont plus orientés recherche, en œuvrant dans la matérialisation d’idées (électronique, impression 3D, etc.) plus que dans la réalisation concrètes à l’échelle 1.
 
-
-
+- Dans un premier temps, il s'agit de réaliser un prototype et de l'optimiser suite au REX, en se basant sur des principes de réalisation et d'exploitation à faible coût, comme d'efficience ou de portabilité (standardisation de pièces, etc.)
+- Ensuite, une fois le modèle éprouvé et revu, la transmission de compétences au plus grand nombre reste le but ultime, par l'organisation de stages de réalisation, comme de formations d'aide à la conception ou l'assistance à l'auto-réalisation.
 
 ## Licences
 

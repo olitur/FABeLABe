@@ -55,6 +55,7 @@ theme:
 # Plugins
 plugins:
   - search:
+      prebuild_index: true
       separator: '[\s\-\.]+'
       lang:
         - fr
@@ -89,6 +90,7 @@ plugins:
 
 # Customization
 extra:
+  #disqus: Mbrgo
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/olitur
@@ -142,6 +144,11 @@ markdown_extensions:
   - pymdownx.tilde
 
 
+# maths
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+
+
 # Google Analytics
 google_analytics:
   - UA-164139838-1
@@ -164,20 +171,22 @@ nav:
     - Moyens: association/asso_moyens.md
     - Comptes: association/asso_finances.md
   - Les Implantations:
-    - Entrepôt de stockage: implantations/entrepot-mrs.md
+    - Entrepôt de tri/stockage: implantations/entrepot-mrs.md
     - Atelier de fabrication: implantations/atelier-fabrication.md
-    - Caravane de formations: implantations/caravane-formation.md
+    - Caravane de formation: implantations/caravane-formation.md
     - Zone d'influence: implantations/zone-influence.md
   - Nos activités/Projets:
     - Autonomie énergétique: 
-       - Plastic 2 diesel: autonomie/plastic2diesel.md
-       - Huile 2 diesel: autonomie/huile2carburant.md
-       - Vent 2 watt: autonomie/eolienne.md
-       - Gazogène: autonomie/gazogene.md
-    - Habitat efficace: 
-      - Poêle de masse: habitat/poele-masse.md
-      - Paille porteuse: habitat/paille-porteuse.md
-      - Expérimentations: habitat/habitat-experimental.md
+       - Déchets plastique -> carburant: projets/autonomie-energie/plastic2diesel.md
+       - Huile végétale usagée -> carburant: projets/autonomie-energie/huile2carburant.md
+       - Eolienne "Pigott": projets/autonomie-energie/eolienne.md
+       - Gazogène: projets/autonomie-energie/gazogene.md
+    - Autonomie alimentaire:
+       - Aquaponie: projets/autonomie-alimentaire/projet_autonomie-alimentaire_aquaponie.md
+    - Habitat résilient: 
+      - Poêle de masse: projets/habitat-resilient/poele-masse.md
+      - Maison en paille porteuse: projets/habitat-resilient/paille-porteuse.md
+      - Expérimentations: projets/habitat-resilient/habitat-experimental.md
     - Formations:
       - Conception: formations/formation-conception.md
       - Réalisation: formations/formation-realisations.md

@@ -21,12 +21,11 @@ Il est fondé entre les adhérents aux présents statuts, une association régie
 
 # Objet
 
-Cette association a pour but :
+Cette association a pour but de Modéliser et Expérimenter en réalisant et testant des démonstrateurs à l'échelle 1 dans les domaines suivants : 
 
-- l'apprentissage de la réparation et de l'entretien de vélos ;
-- l'auto-réparation de vélos ;
-- la réutilisation, notamment artistique ou pratique, de matériau et objets de récupération ;
-- et plus généralement toute activité et service liés au recyclage, réparation, entretien, usage et promotion du vélo, et toute activité et service liés à la récupération, réutilisation, et recyclage de matériau et d'objets.
+1. Autonomie énergétique
+2. Autonomie alimentaire
+3. Habitat résilient
 
 # Durée
 
@@ -60,7 +59,7 @@ La qualité de membre se perd par :
 Les ressources de l'association comprennent :
 
 - le montant des cotisations ;
-- les subventions de l'état, des régions, des départements et des communes ;
+- les subventions de l'État, des régions, des départements et des communes ;
 - toutes ressources autorisées par la loi, et en lien avec l'activité développée.
 
 # Mode d'administration
@@ -84,7 +83,7 @@ La liste officielle des membres du C.A. est actualisée après chaque modificati
 
 Chaque adhérent de l'association justifiant au minimum un an d'ancienneté peut rejoindre le C.A. en lui manifestant son intérêt à y participer. Son inclusion est actée lors de la réunion suivant sa demande, sauf opposition d'un membre du C.A., auquel cas un vote à la majorité absolue décide de l'inclusion du membre. Si l'inclusion du membre est refusée par vote, il ne pourra se représenter qu'après six mois.  
 Le C.A. peut également proposer à un adhérent de le rejoindre sans condition d'ancienneté.  
-L'activité d'administrateur est remplie à titre bénévole. Les salariés de l'association peuvent librement assister aux réunions du C.A. et y participer uniquement à titre consultatif.  
+Les éventuels salariés de l'association peuvent librement assister aux réunions du C.A. et y participer uniquement à titre consultatif.  
 
 ### Réunions
 

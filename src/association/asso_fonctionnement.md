@@ -2,27 +2,6 @@
 # Fonctionnement
 
 
-??? info "Statut"
-
-    === "Avancement"
-        * [x] en attente
-        * [ ] démarré
-        * [ ] terminé
-        * [ ] déployé
-
-    === "Conception"
-        * [x] à définir
-        * [ ] terminée
-
-    === "Réalisation"
-        * [x] à effectuer
-        * [ ] faite
-        * [ ] à optimiser après REX
-
-    === "Déploiement"
-        * [x] en attente
-        * [ ] à faire
-        * [ ] fait
 
 # Déroulé d'une inscription 
 - tu t'inscris à l'association, et idéalement, à un projet
@@ -45,3 +24,34 @@ Les Groupes de Travail (trésorerie, organisation d'événements, télécoms, re
 ## Référents
 
 Le Collège des Référents est un groupe de travail permanent qui gère l'atelier au quotidien. Il est composé de bénévoles co-optés. 
+
+
+??? info "Statut projet"
+
+    === "Priorité"
+        * [ ] basse
+        * [ ] moyenne
+        * [ ] importante
+        * [x] élevée
+
+    === "Avancement"
+        * [x] en attente
+        * [ ] démarré
+        * [ ] en cours
+        * [ ] terminé
+        * [ ] déployé
+
+    === "Conception"
+        * [ ] esquisse
+        * [ ] avant-projet
+        * [ ] projet
+
+    === "Réalisation"
+        * [ ] prototype : réalisation & essais
+        * [ ] optimisation suite REX
+        * [ ] modèle 001
+        * [ ] documentation (manuels & plans)
+
+    === "Déploiement"
+        * [ ] formation (assistance à réalisation)
+        * [ ] réalisation par autrui

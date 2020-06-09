@@ -1,34 +1,48 @@
 # Caravane pour formations
 
-??? info "Statut"
+## Principe
+
+Offrir des formations "sur site" en se déplaçant au plus près des intéressés, afin de diminuer les coûts de formation.
+
+## Implémentation
+
+- Caravane de grande dimension pouvant accueillir au moins 5-6 stagiaires
+- équipement informatique multipostes, accès à internet par emprunt du WIFI local ou antenne satellite
+- climatisation, toilettes, détection incendie
+
+
+## Principales difficultés
+
+- trouver une "caravane" adaptée à la réception de public, type unité mobile médecine du travail
+- avoir le véhicule adapté pour la tracter ...
+
+
+??? info "Statut projet"
+
+    === "Priorité"
+        * [x] basse
+        * [ ] moyenne
+        * [ ] importante
+        * [ ] élevée
 
     === "Avancement"
         * [x] en attente
         * [ ] démarré
+        * [ ] en cours
         * [ ] terminé
         * [ ] déployé
 
     === "Conception"
-        * [ ] à définir
-        * [x] terminée
+        * [x] esquisse
+        * [ ] avant-projet
+        * [ ] projet
 
     === "Réalisation"
-        * [x] à effectuer
-        * [ ] faite
-        * [ ] à optimiser après REX
+        * [ ] prototype : réalisation & essais
+        * [ ] optimisation suite REX
+        * [ ] modèle 001
+        * [ ] documentation (manuels & plans)
 
     === "Déploiement"
-        * [x] en attente
-        * [ ] à faire
-        * [ ] fait
-
-
-## Le "lieu"
-
-C'est une caravane aux volets bleus ... tractée par un beau camion ...
-
-Tous ils eurent de beaux échanges ...
-
-## L'objectif
-
-Offrir des formations au plus près des intéressés en maîtrisant les coûts de location de salle ...
+        * [ ] formation (assistance à réalisation)
+        * [ ] réalisation par autrui
